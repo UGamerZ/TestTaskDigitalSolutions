@@ -21,7 +21,7 @@ A full-stack demo app combining a TypeScript + React frontend with an Express ba
 - **Deployment**
   - Docker Compose for running frontend and backend together
   - Backend on port `4000`
-  - Frontend on port `5173`
+  - Frontend on port `80`
 
 ## Repository Structure
 
@@ -60,7 +60,7 @@ docker compose up --build
 
 Then open:
 
-- Frontend: `http://localhost:5173`
+- Frontend: `http://localhost:80`
 - Backend healthcheck: `http://localhost:4000/api/selection`
 
 ## Run Locally without Docker
