@@ -82,3 +82,5 @@ npm run dev
 ```
 
 If you need to override the backend URL, set `VITE_API_URL` before starting the frontend.
+
+## The deployed website can be accessed at: https://8mgz-4ap0-5u6a.gw-1a.dockhost.net
